@@ -21,7 +21,7 @@ cd ~/local/share/check_mk/notifications/
 ```
 Baixe o script 
 ```
-wget --no-check-certificate https://gitlab.indrabrasil.com.br/gt/devops/scripts/check-mk/checkmk-glpi-notify/-/raw/master/check_mk_glpi_notify.sh -O check_mk_glpi_notify
+wget --no-check-certificate https://raw.githubusercontent.com/Minsait-Brasil/checkmk-glpi-notify/main/check_mk_glpi_notify.sh -O check_mk_glpi_notify
 ```
 
 Dê as permissões de execução para o script
